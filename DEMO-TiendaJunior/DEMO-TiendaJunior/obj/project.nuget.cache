@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2Hh6BbGTRGObtFb7jnq33Oypfll3vw1b2su9BItgw8v1Js+mdkYxbewasOdqSqhtj78k9C5ehnpjT5MiWezkw==",
+  "dgSpecHash": "ZVmxmjKe2F8qKFmxJtbURtkfRQLGUvWLpPJMqyj9SuQEBS4jnYUwyU5kljauvaaHHreXCCi8lW0mTZ5S+FyXTQ==",
   "success": true,
-  "projectFilePath": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+  "projectFilePath": "D:\\Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sraar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sraar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
