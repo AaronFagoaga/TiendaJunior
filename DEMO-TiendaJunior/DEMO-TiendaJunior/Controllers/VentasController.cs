@@ -96,7 +96,6 @@ namespace DEMO_TiendaJunior.Controllers
             return View(ventas);
         }
 
-        // POST: FacultyController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(VentasModel ventas)

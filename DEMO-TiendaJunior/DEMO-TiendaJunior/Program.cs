@@ -1,4 +1,5 @@
 using DEMO_TiendaJunior.Data;
+using DEMO_TiendaJunior.Repositories.Categoria;
 using DEMO_TiendaJunior.Repositories.Venta;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +9,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddSingleton<ISqlDataAccess, SqlDataAccess>();
 builder.Services.AddScoped<IVentaRepository, VentasRepository>();
+//
+builder.Services.AddScoped<ICategoriaRepository,  CategoriaRepository>();
 
 var app = builder.Build();
 
