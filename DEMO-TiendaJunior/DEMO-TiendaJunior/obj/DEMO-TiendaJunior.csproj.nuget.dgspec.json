@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L e  o\\Downloads\\Sprint\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {}
+    "C:\\Users\\Judith Del Cid\\Desktop\\Ejemplo subir con git\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L e  o\\Downloads\\Sprint\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {
+    "C:\\Users\\Judith Del Cid\\Desktop\\Ejemplo subir con git\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L e  o\\Downloads\\Sprint\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+        "projectUniqueName": "C:\\Users\\Judith Del Cid\\Desktop\\Ejemplo subir con git\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
         "projectName": "DEMO-TiendaJunior",
-        "projectPath": "C:\\Users\\L e  o\\Downloads\\Sprint\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
-        "packagesPath": "C:\\Users\\L e  o\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L e  o\\Downloads\\Sprint\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
+        "projectPath": "C:\\Users\\Judith Del Cid\\Desktop\\Ejemplo subir con git\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+        "packagesPath": "C:\\Users\\Judith Del Cid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Judith Del Cid\\Desktop\\Ejemplo subir con git\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\L e  o\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Judith Del Cid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

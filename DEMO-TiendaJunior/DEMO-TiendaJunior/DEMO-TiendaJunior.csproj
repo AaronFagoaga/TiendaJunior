@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\Precios\" />
     <Folder Include="Repositories\Productos\" />
   </ItemGroup>
 
