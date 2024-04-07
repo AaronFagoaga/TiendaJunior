@@ -2,6 +2,7 @@ using DEMO_TiendaJunior.Data;
 using DEMO_TiendaJunior.Repositories.Categoria;
 using DEMO_TiendaJunior.Repositories.Venta;
 using DEMO_TiendaJunior.Repositories.Precios;
+using DEMO_TiendaJunior.Repositories.Productos;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,7 @@ builder.Services.AddScoped<IVentaRepository, VentasRepository>();
 builder.Services.AddScoped<IPreciosRepository, PreciosRepository>();
 //
 builder.Services.AddScoped<ICategoriaRepository,  CategoriaRepository>();
+builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
 
 var app = builder.Build();
 

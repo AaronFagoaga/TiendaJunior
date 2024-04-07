@@ -1,4 +1,4 @@
-﻿@model IEnumerable<DEMO_TiendaJunior.Models.PrecioModel>
+﻿@model IEnumerable<DEMO_TiendaJunior.Models.ProductoModel>
 
 @{
     ViewData["Title"] = "Index";
@@ -13,13 +13,19 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Id_Precio)
+               Id_Producto
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Id_Producto)
+                Nombre_Producto
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.PrecioUnidad)
+                Presentacion
+            </th>
+            <th>
+               Stock
+            </th>
+            <th>
+               Categoria
             </th>
             <th></th>
         </tr>
@@ -28,13 +34,19 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Id_Precio)
+                @Html.DisplayFor(modelItem => item.Id_Producto)
             </td>
             <td>
-               @item.Producto?.Nombre_Producto
+                @Html.DisplayFor(modelItem => item.Nombre_Producto)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.PrecioUnidad)
+                @Html.DisplayFor(modelItem => item.Presentacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stock)
+            </td>
+            <td>
+                @item.Categoria?.Nombre
             </td>
             <td>
                 @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
