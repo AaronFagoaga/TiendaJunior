@@ -1,0 +1,36 @@
+﻿@model IEnumerable<DEMO_TiendaJunior.Models.PrecioModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Precios por unidad</h1>
+
+<p>
+    <a asp-action="Create">Establecer precio</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Producto</th>
+            <th>Precio Unitario</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Producto?.Nombre_Producto
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioUnidad)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

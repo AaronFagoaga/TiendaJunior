@@ -1,0 +1,53 @@
+﻿@model IEnumerable<DEMO_TiendaJunior.Models.ProductoModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Productos</h1>
+
+<p>
+    <a asp-action="Create">Registrar nuevo producto</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nombre del producto
+            </th>
+            <th>
+                Presentacion
+            </th>
+            <th>
+               Stock
+            </th>
+            <th>
+               Categoria
+            </th>
+            <th>ACCIONES</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre_Producto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Presentacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stock)
+            </td>
+            <td>
+                @item.Categoria?.Nombre
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
