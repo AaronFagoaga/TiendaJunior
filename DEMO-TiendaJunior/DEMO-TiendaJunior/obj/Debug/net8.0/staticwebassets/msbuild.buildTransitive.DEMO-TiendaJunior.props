@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\DEMO-TiendaJunior.props" />
-</Project>
