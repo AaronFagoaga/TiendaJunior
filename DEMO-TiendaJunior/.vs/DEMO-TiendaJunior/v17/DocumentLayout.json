@@ -1,33 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\",
+  "WorkspaceRootPath": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\android\\vs repos\\demo-tiendajunior\\demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\android\\vs repos\\demo-tiendajunior\\demo-tiendajunior\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\detallesventas\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\detallesventas\\idetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\detallesventas\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\detallesventas\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\android\\vs repos\\demo-tiendajunior\\demo-tiendajunior\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\android\\vs repos\\demo-tiendajunior\\demo-tiendajunior\\repositories\\productos\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\productos\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\productos\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\android\\vs repos\\demo-tiendajunior\\demo-tiendajunior\\repositories\\productos\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\productos\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\productos\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\android\\vs repos\\demo-tiendajunior\\demo-tiendajunior\\views\\precio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\precio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\precio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\android\\vs repos\\demo-tiendajunior\\demo-tiendajunior\\models\\preciomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\models\\preciomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\models\\preciomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,98 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\appsettings.json",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
+              "RelativeToolTip": "DEMO-TiendaJunior\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T22:35:30.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDetalleRepository.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\DetallesVentas\\IDetalleRepository.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\DetallesVentas\\IDetalleRepository.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\DetallesVentas\\IDetalleRepository.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\DetallesVentas\\IDetalleRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T22:31:49.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleRepository.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T22:31:46.199Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Program.cs",
-              "ToolTip": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
               "RelativeToolTip": "DEMO-TiendaJunior\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T01:16:41.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
-              "ToolTip": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
               "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T01:16:03.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T01:15:31.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Productos\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\Productos\\ProductoRepository.cs",
-              "ToolTip": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Productos\\ProductoRepository.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\Productos\\ProductoRepository.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAowEYAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T01:14:17.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductoRepository.cs",
-              "DocumentMoniker": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Productos\\IProductoRepository.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\Productos\\IProductoRepository.cs",
-              "ToolTip": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Productos\\IProductoRepository.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\Productos\\IProductoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T01:13:37.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T01:16:03.631Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
-              "ToolTip": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T01:09:25.323Z",
-              "EditorCaption": ""
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:15:31.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Productos\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\Productos\\ProductoRepository.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Productos\\ProductoRepository.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\Productos\\ProductoRepository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:14:17.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Productos\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\Productos\\IProductoRepository.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Productos\\IProductoRepository.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\Productos\\IProductoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:13:37.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T01:09:25.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PrecioModel.cs",
-              "DocumentMoniker": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\PrecioModel.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\PrecioModel.cs",
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Models\\PrecioModel.cs",
-              "ToolTip": "D:\\Android\\VS repos\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\PrecioModel.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\PrecioModel.cs",
               "RelativeToolTip": "DEMO-TiendaJunior\\Models\\PrecioModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T01:08:30.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T01:08:30.763Z"
             }
           ]
         }

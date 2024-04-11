@@ -1,0 +1,33 @@
+﻿@model IEnumerable<DEMO_TiendaJunior.Models.DetalleModel>
+
+@{
+    ViewData["Title"] = "Detalles de venta";
+}
+
+<h1>Detalles de venta</h1>
+
+<p>
+    <a asp-action="Create">Añadir detalle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Producto</th>
+            <th>Cantidad</th>
+            <th>Sub Total</th>
+            <th>ACCIONES</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@item.Producto?.Nombre_Producto </td>
+            <td>@Html.DisplayFor(modelItem => item.Cantidad) </td>
+            <td>$ @Html.DisplayFor(modelItem => item.SubTotal) </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr> }
+    </tbody>
+</table>

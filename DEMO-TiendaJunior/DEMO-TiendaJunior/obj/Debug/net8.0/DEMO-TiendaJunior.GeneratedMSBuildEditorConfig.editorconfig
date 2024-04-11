@@ -17,55 +17,67 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DEMO_TiendaJunior
 build_property.RootNamespace = DEMO_TiendaJunior
-build_property.ProjectDir = D:\Android\VS repos\DEMO-TiendaJunior\DEMO-TiendaJunior\
+build_property.ProjectDir = D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Android\VS repos\DEMO-TiendaJunior\DEMO-TiendaJunior
+build_property.MSBuildProjectDirectory = D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Categoria/Index.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Categoria/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Home/Index.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Detalles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Detalles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Home/Privacy.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Precio/Index.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Precio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlY2lvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Producto/Index.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Producto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Shared/Error.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Ventas/Index.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Ventas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Ventas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/_ViewImports.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/_ViewStart.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android/VS repos/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Shared/_Layout.cshtml]
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zclju3jtf4
