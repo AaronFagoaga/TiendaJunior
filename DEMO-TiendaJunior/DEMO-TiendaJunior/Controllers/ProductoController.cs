@@ -35,6 +35,8 @@ namespace DEMO_TiendaJunior.Controllers
         [HttpGet]
         public ActionResult Create()
         {
+            ViewBag.Categories = _categoriasList;
+
             return View();
         }
 
@@ -55,6 +57,8 @@ namespace DEMO_TiendaJunior.Controllers
             {
                 TempData["message"] = ex.Message;
 
+                ViewBag.Categories = _categoriasList;
+
                 return View(productos);
             }
         }
@@ -64,12 +68,17 @@ namespace DEMO_TiendaJunior.Controllers
         {
             var productos = _productoRepository.GetById(id);
 
-            if (productos == null)
-            {
-                return NotFound();
-            }
+            _categoriasList = new SelectList(
+                                       _productoRepository.GetAllCategorias(),
+                                       nameof(CategoriaModel.Id_Categoria),
+                                       nameof(CategoriaModel.Nombre),
+                                       productos?.Categoria?.Id_Categoria
+                                 );
+
+            ViewBag.Categories = _categoriasList;
 
             return View(productos);
+
         }
 
         [HttpPost]
@@ -86,6 +95,8 @@ namespace DEMO_TiendaJunior.Controllers
             }
             catch (Exception ex)
             {
+                ViewBag.Categories = _categoriasList;
+
                 return View(productos);
             }
         }

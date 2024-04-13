@@ -1,4 +1,6 @@
-﻿namespace DEMO_TiendaJunior.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace DEMO_TiendaJunior.Models
 {
     public class ProductoModel
     {
@@ -8,10 +10,11 @@
 
         public string Presentacion { get; set;}
 
-        public int Id_Categoria { get; set;}
-
+        [Required]
+        [Range(0, int.MaxValue, ErrorMessage = "El campo Stock debe ser un número entero no negativo.")]
         public string Stock { get; set;}
 
+        public int Id_categoria { get; set; }
         public CategoriaModel? Categoria { get; set;} //Captura los datos del modelo de categoria para obtener el nombre
     }
 }

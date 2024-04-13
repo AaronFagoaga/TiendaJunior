@@ -13,6 +13,9 @@
     <thead>
         <tr>
             <th>
+               Id_Producto
+            </th>
+            <th>
                 Nombre del producto
             </th>
             <th>
@@ -30,6 +33,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id_Producto)
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Nombre_Producto)
             </td>

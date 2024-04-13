@@ -67,7 +67,7 @@ namespace DEMO_TiendaJunior.Repositories.Productos
 
                 connection.Execute(
                     storedProcedure,
-                    new { productos.Nombre_Producto, productos.Presentacion, productos.Stock, productos.Id_Categoria },
+                    new { productos.Nombre_Producto, productos.Presentacion, productos.Stock, productos.Id_categoria },
                     commandType: CommandType.StoredProcedure
                     );
             }
@@ -79,8 +79,13 @@ namespace DEMO_TiendaJunior.Repositories.Productos
             {
                 string storedprocedure = "dbo.spProducto_Update ";
 
-                connection.Execute(storedprocedure, productos, commandType: CommandType.StoredProcedure);
+                connection.Execute(
+                    storedprocedure,
+                    new { productos.Id_Producto, productos.Nombre_Producto, productos.Presentacion, productos.Stock, productos.Id_categoria },
+                    commandType: CommandType.StoredProcedure
+                   );
             }
+
         }
 
         public void Delete(int id)
@@ -91,7 +96,7 @@ namespace DEMO_TiendaJunior.Repositories.Productos
 
                 connection.Execute(
                     storedprocedure,
-                    new { id },
+                    new { Id_Producto = id },
                     commandType: CommandType.StoredProcedure
                     );
             }
