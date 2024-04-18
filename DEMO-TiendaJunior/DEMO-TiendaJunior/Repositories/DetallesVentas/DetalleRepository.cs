@@ -48,8 +48,12 @@ namespace DEMO_TiendaJunior.Repositories.DetallesVentas
 			{
 				string storeProcedure = "dbo.spDetalleVenta_Update";
 
-				connection.Execute(storeProcedure, detalle, commandType: CommandType.StoredProcedure);
-			}
+                connection.Execute(
+                    storeProcedure,
+                    new { detalle.Id_Detalle, detalle.Cantidad, detalle.Id_Producto },
+                    commandType: CommandType.StoredProcedure
+                    );
+            }
 		}
 
 		public IEnumerable<DetalleModel> GetAllByIdVenta(int Id_Venta)

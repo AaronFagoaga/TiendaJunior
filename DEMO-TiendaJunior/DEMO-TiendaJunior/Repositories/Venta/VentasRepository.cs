@@ -61,7 +61,11 @@ namespace DEMO_TiendaJunior.Repositories.Venta
             {
                 string storeProcedure = "dbo.spVentas_Update";
 
-                connection.Execute(storeProcedure, ventas, commandType: CommandType.StoredProcedure);
+                connection.Execute(
+                    storeProcedure,
+                    new { ventas.Id_Venta, ventas.dFecha, ventas.Cliente, ventas.Encargado },
+                    commandType: CommandType.StoredProcedure
+                    );
             }
         }
 

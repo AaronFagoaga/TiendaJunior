@@ -25,7 +25,7 @@
             <td>@Html.DisplayFor(modelItem => item.Cantidad) </td>
             <td>$ @Html.DisplayFor(modelItem => item.SubTotal) </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                <a asp-action="Edit" asp-route-id="@item.Id_Detalle">Editar</a> |
                 @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
             </td>
         </tr> }

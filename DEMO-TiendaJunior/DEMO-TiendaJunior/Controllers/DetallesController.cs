@@ -13,6 +13,8 @@ namespace DEMO_TiendaJunior.Controllers
 
 		private SelectList _productosList;
 
+		int IndexDeVenta;
+
 		public DetallesController(IDetalleRepository detallesRepository)
 		{
 			_detallesRepository = detallesRepository;
@@ -26,6 +28,7 @@ namespace DEMO_TiendaJunior.Controllers
 		[HttpGet]
         public ActionResult Index(int Id_Venta)
         {
+			IndexDeVenta = Id_Venta;
             var detalles = _detallesRepository.GetAllByIdVenta(Id_Venta);
             return View(detalles);
         }
@@ -60,20 +63,37 @@ namespace DEMO_TiendaJunior.Controllers
 		[HttpGet]
 		public ActionResult Edit(int id)
 		{
-			return View();
+            var detalles = _detallesRepository.GetById(id);
+            
+			if (detalles == null)
+            {
+                return NotFound();
+            }
+            _productosList = new SelectList(
+                _detallesRepository.GetAllProductos(),
+                nameof(ProductoModel.Id_Producto),
+                nameof(ProductoModel.Nombre_Producto),
+                detalles?.Producto?.Id_Producto
+            );
+
+            ViewBag.Products = _productosList;
+            return View(detalles);
 		}
 
 		[HttpPost]
 		[ValidateAntiForgeryToken]
-		public ActionResult Edit(int id, IFormCollection collection)
+		public ActionResult Edit(DetalleModel detalle)
 		{
 			try
 			{
-				return RedirectToAction(nameof(Index));
-			}
+				_detallesRepository.Edit(detalle);
+
+                return RedirectToAction("Index", "Ventas");
+            }
 			catch
 			{
-				return View();
+                ViewBag.Products = _productosList;
+                return View(detalle);
 			}
 		}
 
