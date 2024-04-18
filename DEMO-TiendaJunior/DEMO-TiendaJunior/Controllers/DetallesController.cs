@@ -46,7 +46,7 @@ namespace DEMO_TiendaJunior.Controllers
 		public ActionResult Create(DetalleModel detalle)
 		{
 			try
-            {
+            { 
                 //detalle.Id_Venta = IndexDeVenta;
                 _detallesRepository.Add(detalle);
 

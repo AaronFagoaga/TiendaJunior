@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {}
+    "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {}
   },
   "projects": {
-    "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {
+    "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+        "projectUniqueName": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
         "projectName": "DEMO-TiendaJunior",
-        "projectPath": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
-        "packagesPath": "C:\\Users\\sraar\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
+        "projectPath": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+        "packagesPath": "C:\\Users\\L e  o\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files\\Visual Studio 2022\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sraar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\L e  o\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,7 +46,7 @@
             },
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
@@ -86,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
