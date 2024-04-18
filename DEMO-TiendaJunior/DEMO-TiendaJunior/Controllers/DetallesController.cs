@@ -4,6 +4,7 @@ using DEMO_TiendaJunior.Repositories.Precios;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.Blazor;
 
 namespace DEMO_TiendaJunior.Controllers
 {
@@ -13,7 +14,7 @@ namespace DEMO_TiendaJunior.Controllers
 
 		private SelectList _productosList;
 
-		int IndexDeVenta;
+		public int IndexDeVenta;
 
 		public DetallesController(IDetalleRepository detallesRepository)
 		{
@@ -28,14 +29,14 @@ namespace DEMO_TiendaJunior.Controllers
 		[HttpGet]
         public ActionResult Index(int Id_Venta)
         {
-			IndexDeVenta = Id_Venta;
             var detalles = _detallesRepository.GetAllByIdVenta(Id_Venta);
-            return View(detalles);
+			return View(detalles);
         }
 
-		[HttpGet]
+        [HttpGet]
 		public ActionResult Create()
         {
+            DetalleModel detalle = new DetalleModel();
             ViewBag.Productos = _productosList;
             return View();
 		}
@@ -45,8 +46,9 @@ namespace DEMO_TiendaJunior.Controllers
 		public ActionResult Create(DetalleModel detalle)
 		{
 			try
-			{
-				_detallesRepository.Add(detalle);
+            {
+                //detalle.Id_Venta = IndexDeVenta;
+                _detallesRepository.Add(detalle);
 
 				TempData["message"] = "Datos guardados exitosamente";
 
