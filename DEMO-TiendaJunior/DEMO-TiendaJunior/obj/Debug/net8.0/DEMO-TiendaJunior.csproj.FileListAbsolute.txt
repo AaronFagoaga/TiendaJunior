@@ -1027,3 +1027,16 @@ C:\Users\Zulma\OneDrive\Ciclo_VII-2024\Metodologias Agiles de Desarrollo de Soft
 C:\Users\Zulma\OneDrive\Ciclo_VII-2024\Metodologias Agiles de Desarrollo de Software\Sprint 3\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\obj\Debug\net8.0\DEMO-TiendaJunior.pdb
 C:\Users\Zulma\OneDrive\Ciclo_VII-2024\Metodologias Agiles de Desarrollo de Software\Sprint 3\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\obj\Debug\net8.0\DEMO-TiendaJunior.genruntimeconfig.cache
 C:\Users\Zulma\OneDrive\Ciclo_VII-2024\Metodologias Agiles de Desarrollo de Software\Sprint 3\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\obj\Debug\net8.0\ref\DEMO-TiendaJunior.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Repositorio - Tienda Junior\TiendaJunior\DEMO-TiendaJunior\DEMO-TiendaJunior\bin\Debug\net8.0\Microsoft.JSInterop.dll

@@ -67,7 +67,7 @@ namespace DEMO_TiendaJunior.Repositories.Productos
 
                 connection.Execute(
                     storedProcedure,
-                    new { productos.Nombre_Producto, productos.Presentacion, productos.Stock, productos.Id_categoria },
+                    new { productos.Nombre_Producto, productos.Presentacion, productos.Stock, productos.IdCategoria },
                     commandType: CommandType.StoredProcedure
                     );
             }
@@ -81,7 +81,7 @@ namespace DEMO_TiendaJunior.Repositories.Productos
 
                 connection.Execute(
                     storedprocedure,
-                    new { productos.Id_Producto, productos.Nombre_Producto, productos.Presentacion, productos.Stock, productos.Id_categoria },
+                    new { productos.Id_Producto, productos.Nombre_Producto, productos.Presentacion, productos.Stock, productos.IdCategoria },
                     commandType: CommandType.StoredProcedure
                    );
             }

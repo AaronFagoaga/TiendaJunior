@@ -30,7 +30,7 @@ namespace DEMO_TiendaJunior.Controllers
         [HttpGet]
         public ActionResult Create()
         {
-            ViewBag.ProductosModel = _productosList;
+            ViewBag.Productos = _productosList;
             return View();
         }
 
@@ -46,8 +46,8 @@ namespace DEMO_TiendaJunior.Controllers
             }
             catch
             {
-                ViewBag.ProductosModel = _productosList;
-                return View();
+                ViewBag.Productos = _productosList;
+                return View(precio);
             }
         }
 
