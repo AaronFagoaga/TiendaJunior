@@ -7746,19 +7746,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\L e  o\\.nuget\\packages\\": {}
+    "C:\\Users\\Zulma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+      "projectUniqueName": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 4\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
       "projectName": "DEMO-TiendaJunior",
-      "projectPath": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
-      "packagesPath": "C:\\Users\\L e  o\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
+      "projectPath": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 4\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+      "packagesPath": "C:\\Users\\Zulma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 4\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\L e  o\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zulma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7778,6 +7778,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7820,7 +7825,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

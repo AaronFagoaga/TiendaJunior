@@ -12,7 +12,7 @@ namespace DEMO_TiendaJunior.Models
 
         [Required]
         [Range(0, int.MaxValue, ErrorMessage = "El campo Stock debe ser un número entero no negativo.")]
-        public int Stock { get; set;}
+        public string Stock { get; set;}
 
         public int IdCategoria { get; set; }
         public CategoriaModel? Categoria { get; set;} //Captura los datos del modelo de categoria para obtener el nombre

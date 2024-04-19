@@ -93,7 +93,7 @@ namespace DEMO_TiendaJunior.Controllers
 
                 return RedirectToAction(nameof(Index));
             }
-            catch (Exception ex)
+            catch 
             {
                 ViewBag.Categories = _categoriasList;
 

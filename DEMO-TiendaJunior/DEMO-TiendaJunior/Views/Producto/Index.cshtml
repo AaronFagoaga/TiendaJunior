@@ -49,9 +49,13 @@
                 @item.Categoria?.Nombre
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                <a
+                    asp-controller="Producto"
+                    asp-action="Edit"
+                    asp-route-id="@item.Id_Producto"
+                >   Editar
+                </a>
+
             </td>
         </tr>
 }
