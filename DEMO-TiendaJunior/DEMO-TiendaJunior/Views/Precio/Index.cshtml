@@ -27,7 +27,7 @@
                     @Html.DisplayFor(modelItem => item.PrecioUnidad)
                 </td>
                 <td>
-                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    <a asp-action="Edit" asp-route-id="@item.Id_Precio">Editar</a> |
                     @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
                 </td>
             </tr>
