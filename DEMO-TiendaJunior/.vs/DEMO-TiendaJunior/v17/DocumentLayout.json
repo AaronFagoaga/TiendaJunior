@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\venta\\ventasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\venta\\ventasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\detallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\detallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\preciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\preciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\views\\detalles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\detalles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\detallesventas\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\detallesventas\\detallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\models\\detallemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\models\\detallemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,45 +30,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PrecioController.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\PrecioController.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\PrecioController.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\PrecioController.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\PrecioController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAswEQAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "DetallesController.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\DetallesController.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\DetallesController.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\DetallesController.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\DetallesController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAA5wG8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:24:48.934Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T14:43:26.343Z",
+              "WhenOpened": "2024-04-25T14:48:41.555Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "DetalleRepository.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowCQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:56:52.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleModel.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\DetalleModel.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Models\\DetalleModel.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\DetalleModel.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Models\\DetalleModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:55:50.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Ventas\\Delete.cshtml",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Delete.cshtml",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Ventas\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Detalles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Detalles\\Delete.cshtml",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Detalles\\Delete.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Detalles\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T14:38:55.463Z",
+              "WhenOpened": "2024-04-25T14:51:16.32Z",
               "EditorCaption": ""
             },
             {
@@ -99,87 +93,10 @@
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\VentasController.cs",
               "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\VentasController.cs",
               "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\VentasController.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFYAAAAgAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv2cAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:38:02.616Z",
+              "WhenOpened": "2024-04-25T14:49:02.278Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VentasRepository.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Venta\\VentasRepository.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\Venta\\VentasRepository.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\Venta\\VentasRepository.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\Venta\\VentasRepository.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAkwEwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:55:32.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Ventas\\Edit.cshtml",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Edit.cshtml",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Ventas\\Edit.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T14:42:18.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DetallesController.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\DetallesController.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\DetallesController.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\DetallesController.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\DetallesController.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAswAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:32:53.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\appsettings.json",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
-              "RelativeToolTip": "DEMO-TiendaJunior\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-25T14:25:53.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Program.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:25:50.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetalleRepository.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\DetallesVentas\\DetalleRepository.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T00:55:20.509Z"
             }
           ]
         }

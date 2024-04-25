@@ -102,21 +102,32 @@ namespace DEMO_TiendaJunior.Controllers
 		[HttpGet]
 		public ActionResult Delete(int id)
 		{
-			return View();
-		}
+            var detalles = _detallesRepository.GetById(id);
+
+            if (detalles == null)
+            {
+                return NotFound();
+            }
+
+            return View(detalles);
+        }
 
 		[HttpPost]
 		[ValidateAntiForgeryToken]
-		public ActionResult Delete(int id, IFormCollection collection)
+		public ActionResult Delete(DetalleModel detalle)
 		{
-			try
-			{
-				return RedirectToAction(nameof(Index));
-			}
-			catch
-			{
-				return View();
-			}
-		}
+            try
+            {
+                _detallesRepository.Delete(detalle.Id_Detalle);
+
+                TempData["message"] = "Dato eliminado exitosamente";
+
+                return RedirectToAction("Index", "Ventas");
+            }
+            catch (Exception ex)
+            {
+                return View(detalle);
+            }
+        }
 	}
 }
