@@ -73,7 +73,7 @@ namespace DEMO_TiendaJunior.Repositories.Categoria
 
                 connection.Execute(
                     storeProcedure,
-                    new { id },
+                    new { Id_Categoria = id },
                     commandType: CommandType.StoredProcedure
                     );
             }
