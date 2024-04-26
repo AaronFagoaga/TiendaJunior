@@ -51,7 +51,7 @@ namespace DEMO_TiendaJunior.Controllers
             }
         }
 
-        // GET: PrecioController/Edit/5
+        [HttpGet]
         public ActionResult Edit(int id)
         {
             var precio = _preciosRepository.GetById(id);
@@ -60,14 +60,14 @@ namespace DEMO_TiendaJunior.Controllers
                                     _preciosRepository.GetAllProductos(),
                                     nameof(ProductoModel.Id_Producto),
                                     nameof(ProductoModel.Nombre_Producto),
-                                    precio?.Producto?.Id_Producto
+                                    precio?.Producto?.Nombre_Producto
                 );
-            ViewBag.ProductoModel = _productosList;
+
+            ViewBag.Productos = _productosList;
 
             return View(precio);
         }
 
-        // POST: PrecioController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(PrecioModel precio)

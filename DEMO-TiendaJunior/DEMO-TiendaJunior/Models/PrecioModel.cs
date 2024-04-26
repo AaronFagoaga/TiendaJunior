@@ -4,7 +4,7 @@
     {
         public int Id_Precio { get; set; }
 
-        public int IdProducto { get; set;}
+        public int Id_Producto { get; set;}
 
         public decimal PrecioUnidad { get; set;}
 

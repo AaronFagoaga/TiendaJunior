@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "uwOXtB1GGnx0XdiGj2JwfRdtanG4nyVW8rzywBhG6m4=",
+=======
+  "Hash": "n7F8/8SmAfpYIcpjN52OeyPTCLqJozl3KrRgRYpvGrY=",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
   "Source": "DEMO-TiendaJunior",
   "BasePath": "_content/DEMO-TiendaJunior",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "DEMO-TiendaJunior\\wwwroot",
       "Source": "DEMO-TiendaJunior",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\L e  o\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
+=======
+      "Identity": "C:\\Users\\sraar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\sraar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -33,6 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\L e  o\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
@@ -40,6 +56,15 @@
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\L e  o\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\sraar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\sraar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\sraar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,6 +77,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\L e  o\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
     },
     {
@@ -59,6 +85,15 @@
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\sraar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
+    },
+    {
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DEMO-TiendaJunior.styles.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "DEMO-TiendaJunior.styles.css",
       "AssetKind": "All",
@@ -71,6 +106,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DEMO-TiendaJunior.styles.css"
     },
     {
@@ -78,6 +114,15 @@
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DEMO-TiendaJunior.styles.css"
+    },
+    {
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DEMO-TiendaJunior.bundle.scp.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "DEMO-TiendaJunior.bundle.scp.css",
       "AssetKind": "All",
@@ -90,6 +135,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DEMO-TiendaJunior.bundle.scp.css"
     },
     {
@@ -97,6 +143,15 @@
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "OriginalItemSpec": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DEMO-TiendaJunior.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\css\\site.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -112,10 +167,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\favicon.ico",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\favicon.ico",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -131,10 +193,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\js\\site.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\js\\site.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -150,10 +219,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -169,10 +245,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -188,10 +271,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -207,10 +297,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -226,10 +323,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -245,10 +349,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -264,10 +375,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -283,10 +401,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -302,10 +427,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -321,10 +453,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -340,10 +479,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -359,10 +505,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -378,10 +531,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -397,10 +557,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -416,10 +583,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -435,10 +609,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -454,10 +635,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -473,10 +661,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -492,10 +687,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -511,10 +713,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -530,10 +739,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -549,10 +765,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -568,10 +791,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -587,10 +817,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -606,10 +843,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -625,10 +869,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -644,10 +895,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -663,10 +921,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -682,10 +947,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -701,10 +973,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -720,10 +999,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -739,10 +1025,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -758,10 +1051,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -777,10 +1077,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -796,10 +1103,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -815,10 +1129,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -834,10 +1155,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -853,10 +1181,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -872,10 +1207,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -891,10 +1233,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -910,10 +1259,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -929,10 +1285,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -948,10 +1311,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -967,10 +1337,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -986,10 +1363,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1005,10 +1389,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1024,10 +1415,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1043,10 +1441,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1062,10 +1467,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1081,10 +1493,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1100,10 +1519,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1119,10 +1545,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1138,10 +1571,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1157,10 +1597,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1176,10 +1623,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1195,10 +1649,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1214,10 +1675,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "DEMO-TiendaJunior",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+=======
+      "Identity": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "DEMO-TiendaJunior",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\wwwroot\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
       "BasePath": "_content/DEMO-TiendaJunior",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

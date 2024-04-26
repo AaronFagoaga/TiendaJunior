@@ -26,7 +26,7 @@
             <td>$ @Html.DisplayFor(modelItem => item.SubTotal) </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id_Detalle">Editar</a> |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                <a asp-action="Delete" asp-route-id="@item.Id_Detalle">Eliminar</a>
             </td>
         </tr> }
     </tbody>

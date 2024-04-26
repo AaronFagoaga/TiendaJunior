@@ -77,7 +77,7 @@ namespace DEMO_TiendaJunior.Repositories.Venta
 
                 connection.Execute(
                     storeProcedure,
-                    new { id },
+                    new { Id_Venta = id },
                     commandType: CommandType.StoredProcedure
                     );
             }

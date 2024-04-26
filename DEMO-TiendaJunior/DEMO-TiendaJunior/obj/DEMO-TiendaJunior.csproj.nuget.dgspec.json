@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {}
   },
   "projects": {
@@ -12,9 +13,30 @@
         "projectPath": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
         "packagesPath": "C:\\Users\\L e  o\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\L e  o\\Downloads\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
+=======
+    "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {}
+  },
+  "projects": {
+    "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+        "projectName": "DEMO-TiendaJunior",
+        "projectPath": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+        "packagesPath": "C:\\Users\\sraar\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio - Tienda Junior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files\\Visual Studio 2022\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\L e  o\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\sraar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 4da45c327e26c2e91a4486db459a6f6d7aa791e0
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +44,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

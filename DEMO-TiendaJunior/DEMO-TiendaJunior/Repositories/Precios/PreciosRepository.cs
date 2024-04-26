@@ -21,7 +21,7 @@ namespace DEMO_TiendaJunior.Repositories.Precios
 
                 connection.Execute(
                     storeProcedure,
-                    new { precio.PrecioUnidad, precio.IdProducto },
+                    new { precio.PrecioUnidad, precio.Id_Producto },
                     commandType: CommandType.StoredProcedure
                     );
             }
@@ -47,7 +47,11 @@ namespace DEMO_TiendaJunior.Repositories.Precios
             {
                 string storeProcedure = "dbo.spPrecio_Update";
 
-                connection.Execute(storeProcedure, precio, commandType: CommandType.StoredProcedure);
+                connection.Execute(
+                    storeProcedure,
+                    new {precio.Id_Precio, precio.Id_Producto, precio.PrecioUnidad },
+                    commandType: CommandType.StoredProcedure
+                    );
             }
         }
 
