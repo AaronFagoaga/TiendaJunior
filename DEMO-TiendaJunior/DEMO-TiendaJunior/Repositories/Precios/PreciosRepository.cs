@@ -35,7 +35,7 @@ namespace DEMO_TiendaJunior.Repositories.Precios
 
                 connection.Execute(
                     storeProcedure,
-                    new { id },
+                    new { Id_Precio = id },
                     commandType: CommandType.StoredProcedure
                     );
             }

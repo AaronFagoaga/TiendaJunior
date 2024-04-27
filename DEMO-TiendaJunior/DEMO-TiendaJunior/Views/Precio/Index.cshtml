@@ -28,7 +28,7 @@
                 </td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.Id_Precio">Editar</a> |
-                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                    <a asp-action="Delete" asp-route-id="@item.Id_Precio">Eliminar</a> 
                 </td>
             </tr>
         }
