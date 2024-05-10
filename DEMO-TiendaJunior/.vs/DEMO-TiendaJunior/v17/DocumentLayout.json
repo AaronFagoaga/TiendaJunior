@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\precio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\precio\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\precio\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\preciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\preciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,33 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrecioController.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\PrecioController.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\PrecioController.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\PrecioController.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\PrecioController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAswFcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T22:43:18.204Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Precio\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Precio\\Delete.cshtml",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Precio\\Delete.cshtml",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Precio\\Delete.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAgAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-27T22:44:03.017Z",
+              "WhenOpened": "2024-05-10T14:07:48.593Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -60,9 +42,9 @@
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
               "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
               "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Precio\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-27T22:45:56.82Z",
+              "WhenOpened": "2024-05-10T14:10:21.994Z",
               "EditorCaption": ""
             }
           ]
