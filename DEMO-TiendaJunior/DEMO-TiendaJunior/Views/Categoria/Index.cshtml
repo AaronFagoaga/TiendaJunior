@@ -7,7 +7,9 @@
 <h1>Listado de categorias</h1>
 
 <p>
-    <a asp-action="Create">Registrar Categoria</a>
+    <a asp-action="Create" asp-controller="Categoria" class="btn btn-success">
+        Registrar Categoria
+    </a>
 </p>
 <table class="table table-bordered table-striped table-responsive" id="categoryTable">
     <thead>
@@ -27,8 +29,10 @@
                 @Html.DisplayFor(modelItem => item.Descripcion)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id_Categoria">Editar</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id_Categoria">Eliminar</a>
+               <div class="w-50 btn-group" role="group">
+                    <a class="btn btn-warning mx-2" asp-action="Edit" asp-route-id="@item.Id_Categoria"><i class="fa-solid fa-pen-to-square"></i></a>
+                    <a class="btn btn-danger mx-2" asp-action="Delete" asp-route-id="@item.Id_Categoria"><i class="fa-solid fa-trash"></i></a>
+               </div>
             </td>
         </tr>
 }
