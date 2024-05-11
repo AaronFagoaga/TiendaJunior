@@ -7,7 +7,11 @@
 <h1>Listados de ventas</h1>
 
 <p>
-    <a asp-action="Create">Agregar venta</a>
+    <!--Copiar desde acá-->
+    <a asp-action="Create" asp-controller="Ventas" class="btn btn-success">
+        Registrar venta
+    </a>
+    <!--Hasta acá y reemplazar por el anterior enlace, recordar cambiar la ruta del controlador a la de la tabla que están editando-->
 </p>
 <table class="table table-bordered table-striped table-responsive" id="salesTable"> <!--Copiar este formato para la etiqueta table-->
     <thead>
@@ -48,11 +52,15 @@
             <td>
                 $ @Html.DisplayFor(modelItem => item.Total_Venta)
             </td>
+                <!--Copiar desde acá-->
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id_Venta">Editar</a> |
-                <a asp-controller="Detalles" asp-action="Index" asp-route-Id_Venta="@item.Id_Venta">Detalles</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id_Venta">Eliminar</a> |
+                <div class="w-50 btn-group" role="group">
+                    <a class="btn btn-warning mx-2" asp-action="Edit" asp-route-id="@item.Id_Venta"><i class="fa-solid fa-pen-to-square"></i></a>
+                    <a class="btn btn-info mx-2" asp-controller="Detalles" asp-action="Index" asp-route-Id_Venta="@item.Id_Venta"><i class="fa-solid fa-list"></i></a>
+                    <a class="btn btn-danger mx-2" asp-action="Delete" asp-route-id="@item.Id_Venta"><i class="fa-solid fa-trash"></i></a>
+                </div>
             </td>
+                <!--Hasta acá, excepto el a de detalles-->
         </tr>
 }
     </tbody>

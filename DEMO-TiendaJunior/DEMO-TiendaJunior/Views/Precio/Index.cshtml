@@ -6,7 +6,9 @@
 <h1>Precios por unidad</h1>
 
 <p>
-    <a asp-action="Create">Establecer precio</a>
+    <a asp-action="Create" asp-controller="Precio" class="btn btn-success">
+        Establecer precio
+    </a>
 </p>
 <table class="table table-bordered table-striped table-responsive" id="pricesTable">
     <thead>
@@ -27,8 +29,10 @@
                     @Html.DisplayFor(modelItem => item.PrecioUnidad)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id_Precio">Editar</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id_Precio">Eliminar</a> 
+                    <div class="w-50 btn-group" role="group">
+                        <a class="btn btn-warning mx-2" asp-action="Edit" asp-route-id="@item.Id_Precio"><i class="fa-solid fa-pen-to-square"></i></a>
+                        <a class="btn btn-danger mx-2" asp-action="Delete" asp-route-id="@item.Id_Precio"><i class="fa-solid fa-trash"></i></a>
+                    </div>
                 </td>
             </tr>
         }
