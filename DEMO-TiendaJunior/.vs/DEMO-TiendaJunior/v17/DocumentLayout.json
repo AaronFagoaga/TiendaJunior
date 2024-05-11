@@ -1,12 +1,211 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\detalles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\detalles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 6\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T04:52:05.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T05:12:19.661Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Producto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Producto\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T05:32:21.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T05:37:37.97Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Ventas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Edit.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Ventas\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T05:37:44.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T05:32:27.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Ventas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T05:12:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T04:57:02.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T04:50:28.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Detalles\\Index.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Detalles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Detalles\\Index.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Detalles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T04:51:22.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 6\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
+              "RelativeToolTip": "DEMO-TiendaJunior\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T04:30:16.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

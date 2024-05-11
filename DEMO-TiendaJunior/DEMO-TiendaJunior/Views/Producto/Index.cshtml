@@ -1,15 +1,17 @@
 ﻿@model IEnumerable<DEMO_TiendaJunior.Models.ProductoModel>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Productos";
 }
 
-<h1>Productos</h1>
+<h1>Listado de Productos</h1>
 
 <p>
-    <a asp-action="Create">Registrar nuevo producto</a>
+    <a asp-action="Create" asp-controller="Producto" class="btn btn-success">
+        Registrar nuevo producto
+    </a>
 </p>
-<table class="table">
+<table class="table table-bordered table-striped table-responsive" id="salesTable">
     <thead>
         <tr>
             <th>
@@ -27,7 +29,7 @@
             <th>
                Categoria
             </th>
-            <th>ACCIONES</th>
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
@@ -48,7 +50,13 @@
             <td>
                 @item.Categoria?.Nombre
             </td>
-            <td>
+                <td>
+                    <div class="w-50 btn-group" role="group">
+                        <a class="btn btn-warning mx-2" asp-action="Edit" asp-route-id="@item.Id_Producto"><i class="fa-solid fa-pen-to-square"></i></a>
+                        <a class="btn btn-danger mx-2" asp-action="Delete" asp-route-id="@item.Id_Producto"><i class="fa-solid fa-trash"></i></a>
+                    </div>
+                </td>
+            @* <td>
                 <a
                     asp-controller="Producto"
                     asp-action="Edit"
@@ -63,8 +71,48 @@
                 > Eliminar
                 </a>
 
-            </td>
+            </td> *@
         </tr>
 }
     </tbody>
 </table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#salesTable").DataTable({ 
+                dom: 'Bfrtip',
+                buttons: [
+                    {
+                        extend: 'csv',
+                        exportOptions: {
+                            columns: ':not(:last-child)'
+                        }
+                    },
+                    {
+                        extend: 'pdf',
+                        exportOptions: {
+                            columns: ':not(:last-child)'
+                        }
+                    },
+                    {
+                        extend: 'excel',
+                        exportOptions: {
+                            columns: ':not(:last-child)'
+                        }
+                    }
+                ],
+                columnDefs: [
+                    {
+                        targets: 5, 
+                        orderable: false,
+                        searchable: false
+                    }
+                ],
+                language: {
+                    url: '//cdn.datatables.net/plug-ins/1.13.7/i18n/es-ES.json'
+                }
+            });
+        });
+    </script>
+}
