@@ -1,0 +1,97 @@
+﻿@model IEnumerable<DEMO_TiendaJunior.Models.UsuarioModel>
+
+@{
+    ViewData["Title"] = "Usuarios";
+}
+
+<h1>Listado de Usuarios</h1>
+
+<p>
+    <a asp-action="Create" asp-controller="Usuario" class="btn btn-success">
+        Registrar nuevo usuario
+    </a>
+</p>
+<table class="table table-bordered table-striped table-responsive" id="usersTable">
+    <thead>
+        <tr>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Edad
+            </th>
+            <th>
+                Contacto
+            </th>
+            <th>
+                Rol
+            </th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Edad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Contacto)
+                </td>
+                <td>
+                    @item.Roles?.Nombre
+                </td>
+                <td>
+                    <div class="w-50 btn-group" role="group">
+                        <a class="btn btn-warning mx-2" asp-action="Edit" asp-route-id="@item.Id_Usuario"><i class="fa-solid fa-pen-to-square"></i></a>
+                        <a class="btn btn-danger mx-2" asp-action="Delete" asp-route-id="@item.Id_Usuario"><i class="fa-solid fa-trash"></i></a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#usersTable").DataTable({
+                dom: 'Bfrtip',
+                buttons: [
+                    {
+                        extend: 'csv',
+                        exportOptions: {
+                            columns: ':not(:last-child)'
+                        }
+                    },
+                    {
+                        extend: 'pdf',
+                        exportOptions: {
+                            columns: ':not(:last-child)'
+                        }
+                    },
+                    {
+                        extend: 'excel',
+                        exportOptions: {
+                            columns: ':not(:last-child)'
+                        }
+                    }
+                ],
+                columnDefs: [
+                    {
+                        targets: 4,
+                        orderable: false,
+                        searchable: false
+                    }
+                ],
+                language: {
+                    url: '//cdn.datatables.net/plug-ins/1.13.7/i18n/es-ES.json'
+                }
+            });
+        });
+    </script>
+}

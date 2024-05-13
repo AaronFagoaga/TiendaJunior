@@ -26,11 +26,6 @@ namespace DEMO_TiendaJunior.Controllers
             return View(_productoRepository.GetAll());
         }
 
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
 
         [HttpGet]
         public ActionResult Create()

@@ -66,6 +66,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Login/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Login/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Precio/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlY2lvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -98,12 +114,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Repositorio - Tienda Junior/TiendaJunior/DEMO-TiendaJunior/DEMO-TiendaJunior/Views/Ventas/Create.cshtml]

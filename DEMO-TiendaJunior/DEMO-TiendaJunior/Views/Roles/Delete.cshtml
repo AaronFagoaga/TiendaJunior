@@ -1,0 +1,44 @@
+﻿@model DEMO_TiendaJunior.Models.RolesModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>¿Desea borrar este rol?</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Nombre:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            Descripción:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class="col-sm-2">
+            Nivel de privilegio:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NivelPrivilegios)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        <input asp-for="Id_Roles" type="hidden" class="form-control" />
+
+        <div class="col-4 offset-2 row">
+            <div class="col">
+                <button type="submit" class="btn btn-danger w-100"><i class="fa-solid fa-trash"></i> Borrar</button>
+            </div>
+            <div class="col">
+                <a class="btn btn-info w-100" asp-action="Index"><i class="fa-solid fa-arrow-left"></i> Volver</a>
+            </div>
+        </div>
+    </form>
+</div>

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\login\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\login\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\usersinfo\\rolesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\usersinfo\\rolesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\usersinfo\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\usersinfo\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\usersinfo\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\usersinfo\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\UsersInfo\\IUsuarioRepository.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\IUsuarioRepository.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\UsersInfo\\IUsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswGEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T15:50:10.804Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\UsersInfo\\UsuarioRepository.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\UsuarioRepository.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\UsersInfo\\UsuarioRepository.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAUwGIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T15:52:05.73Z",
+              "WhenOpened": "2024-05-13T18:40:02.659Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Program.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T16:05:14.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RolesRepository.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\RolesRepository.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\UsersInfo\\RolesRepository.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\RolesRepository.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\UsersInfo\\RolesRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T16:00:40.848Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Login\\Delete.cshtml",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Delete.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Login\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T19:57:54.487Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

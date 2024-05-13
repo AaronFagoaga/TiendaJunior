@@ -1,0 +1,51 @@
+﻿@model DEMO_TiendaJunior.Models.UsuarioModel
+
+@{
+    ViewData["Title"] = "Agregar usuario";
+}
+
+<h1>Registrar usuarios.</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Edad" class="control-label"></label>
+                <input asp-for="Edad" class="form-control" />
+                <span asp-validation-for="Edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Contacto" class="control-label"></label>
+                <input asp-for="Contacto" class="form-control" />
+                <span asp-validation-for="Contacto" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Id_Roles" class="control-label"></label>
+                <select asp-for="Id_Roles"
+                        asp-items="@ViewBag.Roles"
+                        class="form-select">
+                    <option value="">Seleccione</option>
+                </select>
+                <span asp-validation-for="Id_Roles" class="text-danger"></span>
+            </div>
+            <hr />
+            <button type="submit" class="btn btn-primary">Aceptar</button>
+            <a href="@Url.Action("Index", "Usuario")" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
