@@ -4,6 +4,7 @@ using DEMO_TiendaJunior.Repositories.Venta;
 using DEMO_TiendaJunior.Repositories.Categoria;
 using DEMO_TiendaJunior.Repositories.Productos;
 using DEMO_TiendaJunior.Repositories.DetallesVentas;
+using DEMO_TiendaJunior.Repositories.UsersInfo;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,9 @@ builder.Services.AddScoped<IPreciosRepository, PreciosRepository>();
 builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
 builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
 builder.Services.AddScoped<IDetalleRepository, DetalleRepository>();
+builder.Services.AddScoped<IRolesRepository, RolesRepository>();
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<ILoginRepository, LoginRepository>();
 
 var app = builder.Build();
 

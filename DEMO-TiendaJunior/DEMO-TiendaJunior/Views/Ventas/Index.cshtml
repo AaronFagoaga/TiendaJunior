@@ -7,13 +7,11 @@
 <h1>Listados de ventas</h1>
 
 <p>
-    <!--Copiar desde acá-->
     <a asp-action="Create" asp-controller="Ventas" class="btn btn-success">
         Registrar venta
     </a>
-    <!--Hasta acá y reemplazar por el anterior enlace, recordar cambiar la ruta del controlador a la de la tabla que están editando-->
 </p>
-<table class="table table-bordered table-striped table-responsive" id="salesTable"> <!--Copiar este formato para la etiqueta table-->
+<table class="table table-bordered table-striped table-responsive" id="salesTable">
     <thead>
         <tr>
             <th>
@@ -52,7 +50,6 @@
             <td>
                 $ @Html.DisplayFor(modelItem => item.Total_Venta)
             </td>
-                <!--Copiar desde acá-->
             <td>
                 <div class="w-50 btn-group" role="group">
                     <a class="btn btn-warning mx-2" asp-action="Edit" asp-route-id="@item.Id_Venta"><i class="fa-solid fa-pen-to-square"></i></a>
@@ -60,16 +57,14 @@
                     <a class="btn btn-danger mx-2" asp-action="Delete" asp-route-id="@item.Id_Venta"><i class="fa-solid fa-trash"></i></a>
                 </div>
             </td>
-                <!--Hasta acá, excepto el a de detalles-->
         </tr>
 }
     </tbody>
 </table>
 @section Scripts {
-     <!--Copiar toda esta sección-->
     <script>
         $(document).ready(function () {
-            $("#salesTable").DataTable({ //Darle el mismo nombre definido en la etiqueta table
+            $("#salesTable").DataTable({
                 dom: 'Bfrtip',
                 buttons: [
                     {
@@ -93,7 +88,7 @@
                 ],
                 columnDefs: [
                     {
-                        targets: 5, //Definir cuantas columnas tendrá la tabla, en en este caso son 3, la columna de acciones no debe ser contada.
+                        targets: 5, 
                         orderable: false,
                         searchable: false
                     }

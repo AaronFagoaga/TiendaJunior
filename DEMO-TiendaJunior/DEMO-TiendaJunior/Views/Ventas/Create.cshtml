@@ -25,15 +25,12 @@
                 <input asp-for="Encargado" class="form-control" />
                 <span asp-validation-for="Encargado" class="text-danger"></span>
             </div>
-            <!--Copiar desde acá-->
             <hr />
             <button type="submit" class="btn btn-primary">Aceptar</button>
             <a href="@Url.Action("Index", "Ventas")" class="btn btn-secondary">Cancelar</a>
-            <!--Hasta acá-->
          </form>
     </div>
 </div>
-<!--Borrar parte del back to list-->
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
