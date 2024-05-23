@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\login\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\login\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAswGEAAAAdAAAA",
+              "DocumentIndex": 0,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\VentasController.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\VentasController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T18:40:02.659Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-23T17:46:30.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Login\\Delete.cshtml",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Delete.cshtml",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Login\\Delete.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Program.cs",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Program.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:45:17.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T19:57:54.487Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-23T17:29:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\appsettings.json",
+              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
+              "RelativeToolTip": "DEMO-TiendaJunior\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T17:51:06.913Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,7 @@
 ﻿using Dapper;
 using DEMO_TiendaJunior.Data;
 using DEMO_TiendaJunior.Models;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
 using System.Data;
 
 namespace DEMO_TiendaJunior.Repositories.UsersInfo
@@ -99,5 +100,30 @@ namespace DEMO_TiendaJunior.Repositories.UsersInfo
             }
         }
 
+        public IEnumerable<RolesModel> GetAllRoles()
+        {
+            using (var connection = _dataAccess.GetConnection())
+            {
+                string storedprocedure = "dbo.spRoles_GetAll";
+                return connection.Query<RolesModel>(storedprocedure,
+                    commandType: CommandType.StoredProcedure
+                    );
+            }
+        }
+
+        public LoginModel? GetCredentials(string username, string Password)
+        {
+            using (var connection = _dataAccess.GetConnection())
+            {
+                string storedprocedure = "dbo.spLogin_Credentials";
+
+                return
+                    connection.QueryFirstOrDefault<LoginModel>(
+                    storedprocedure,
+                    new { UserName = username, Contraseña = Password },
+                    commandType: CommandType.StoredProcedure
+                   );
+            }
+        }
     }
 }

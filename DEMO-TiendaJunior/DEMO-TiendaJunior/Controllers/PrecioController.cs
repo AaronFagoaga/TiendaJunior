@@ -1,11 +1,13 @@
 ﻿using DEMO_TiendaJunior.Models;
 using DEMO_TiendaJunior.Repositories.Precios;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DEMO_TiendaJunior.Controllers
 {
+    [Authorize]
     public class PrecioController : Controller
     {
         private readonly IPreciosRepository _preciosRepository;

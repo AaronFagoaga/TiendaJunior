@@ -44,15 +44,18 @@
                                 <li class="nav-item">
                                     <a class="nav-link text-dark" asp-controller="Precio" asp-action="Index">Precios</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="Roles" asp-action="Index">Roles</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="Usuario" asp-action="Index">Usuarios</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-controller="Login" asp-action="Index">Login</a>
-                                </li>
+                                @if (TempData["RolUsername"]?.ToString() == "Administrador")
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-controller="Roles" asp-action="Index">Roles</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-controller="Usuario" asp-action="Index">Usuarios</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-controller="Login" asp-action="Index">Login</a>
+                                    </li>
+                                }
                             </ul>
                         </li>
                         <li>
@@ -62,6 +65,11 @@
                             </a>
 
                         </li>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark logout-link" asp-controller="Login" asp-action="Logout">Cerrar sesión</a>
                         </li>
                     </ul>
                 </div>

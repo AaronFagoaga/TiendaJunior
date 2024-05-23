@@ -1,6 +1,7 @@
 ﻿using DEMO_TiendaJunior.Models;
 using DEMO_TiendaJunior.Repositories.DetallesVentas;
 using DEMO_TiendaJunior.Repositories.Precios;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -8,7 +9,8 @@ using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.Blazor;
 
 namespace DEMO_TiendaJunior.Controllers
 {
-	public class DetallesController : Controller
+    [Authorize]
+    public class DetallesController : Controller
 	{
 		private readonly IDetalleRepository _detallesRepository;
 

@@ -1,8 +1,11 @@
 ﻿using DEMO_TiendaJunior.Models;
 using DEMO_TiendaJunior.Repositories.UsersInfo;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Security.Claims;
 
 namespace DEMO_TiendaJunior.Controllers
 {
@@ -21,12 +24,13 @@ namespace DEMO_TiendaJunior.Controllers
                            );
         }
 
-
+        [Authorize]
         public ActionResult Index()
         {
             return View(_loginRepository.GetAll());
         }
 
+        [Authorize]
         [HttpGet]
         public ActionResult Create()
         {
@@ -35,6 +39,7 @@ namespace DEMO_TiendaJunior.Controllers
             return View();
         }
 
+        [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(LoginModel login)
@@ -57,6 +62,7 @@ namespace DEMO_TiendaJunior.Controllers
             }
         }
 
+        [Authorize]
         [HttpGet]
         public ActionResult Edit(int id)
         {
@@ -74,6 +80,7 @@ namespace DEMO_TiendaJunior.Controllers
             return View(logins);
         }
 
+        [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(LoginModel login)
@@ -94,6 +101,7 @@ namespace DEMO_TiendaJunior.Controllers
             }
         }
 
+        [Authorize]
         [HttpGet]
         public ActionResult Delete(int id)
         {
@@ -107,6 +115,7 @@ namespace DEMO_TiendaJunior.Controllers
             return View(logins);
         }
 
+        [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(LoginModel login)
@@ -123,6 +132,41 @@ namespace DEMO_TiendaJunior.Controllers
             {
                 return View(login);
             }
+        }
+
+        public ActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Login(LoginModel login)
+        {
+            var credential = _loginRepository.GetCredentials(login.UserName, login.Contraseña);
+            var rol = _loginRepository.GetAllRoles();
+
+            if (credential != null)
+            {
+                credential.Rol = rol.FirstOrDefault(r => r.Id_Roles == credential.Id_Rol);
+                TempData["RolUsername"] = credential?.Rol?.Nombre;
+                HttpContext.SignInAsync("CookieAuth", new ClaimsPrincipal(new ClaimsIdentity(new List<Claim> { new Claim(ClaimTypes.Name, login.UserName) }, "CookieAuth")));
+
+                return RedirectToAction("Index", "Home");
+
+            }
+            else
+            {
+                TempData["messageLogin"] = "Usuario o Contraseña Incorrectos, Vuelva a Intentarlo";
+            }
+
+            return View(login);
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync("CookieAuth");
+            return RedirectToAction("Login", "Login");
         }
     }
 }

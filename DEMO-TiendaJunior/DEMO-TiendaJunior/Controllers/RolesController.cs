@@ -1,10 +1,12 @@
 ﻿using DEMO_TiendaJunior.Models;
 using DEMO_TiendaJunior.Repositories.UsersInfo;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DEMO_TiendaJunior.Controllers
 {
+    [Authorize]
     public class RolesController : Controller
     {
         private readonly IRolesRepository _rolesRepository;

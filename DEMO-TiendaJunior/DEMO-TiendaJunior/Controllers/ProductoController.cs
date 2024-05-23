@@ -1,10 +1,12 @@
 ﻿using DEMO_TiendaJunior.Models;
 using DEMO_TiendaJunior.Repositories.Productos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DEMO_TiendaJunior.Controllers
 {
+    [Authorize]
     public class ProductoController : Controller
     {
         private readonly IProductoRepository _productoRepository;

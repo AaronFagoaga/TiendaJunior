@@ -1,11 +1,13 @@
 ﻿using DEMO_TiendaJunior.Models;
 using DEMO_TiendaJunior.Repositories.UsersInfo;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DEMO_TiendaJunior.Controllers
 {
+    [Authorize]
     public class UsuarioController : Controller
     {
         private readonly IUsuarioRepository _usuarioRepository;

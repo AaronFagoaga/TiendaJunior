@@ -1,9 +1,11 @@
 ﻿using DEMO_TiendaJunior.Models;
 using DEMO_TiendaJunior.Repositories.Categoria;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DEMO_TiendaJunior.Controllers
 {
+    [Authorize]
     public class CategoriaController : Controller
     {
         private readonly ICategoriaRepository _categoriaRepository;

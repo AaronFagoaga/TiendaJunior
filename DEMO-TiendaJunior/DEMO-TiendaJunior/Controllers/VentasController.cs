@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using DEMO_TiendaJunior.Repositories.Venta;
 using DEMO_TiendaJunior.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DEMO_TiendaJunior.Controllers
 {
+    [Authorize]
     public class VentasController : Controller
     {
         private readonly IVentaRepository _ventasRepository;
