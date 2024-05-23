@@ -102,12 +102,11 @@ namespace DEMO_TiendaJunior.Repositories.UsersInfo
 
         public IEnumerable<RolesModel> GetAllRoles()
         {
+            string query = "SELECT Id_Roles, Nombre FROM Tbl_Roles;";
+
             using (var connection = _dataAccess.GetConnection())
             {
-                string storedprocedure = "dbo.spRoles_GetAll";
-                return connection.Query<RolesModel>(storedprocedure,
-                    commandType: CommandType.StoredProcedure
-                    );
+                return connection.Query<RolesModel>(query);
             }
         }
 

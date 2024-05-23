@@ -42,14 +42,6 @@ namespace DEMO_TiendaJunior.Controllers
             {
                 _ventasRepository.Add(ventas);
 
-                //for (int i = 0; i < products.Length; i++)
-                //{
-                //    VentaDetalle.Add({
-                //        venta_id = venta->id,
-                //            product_id = 
-                //    })
-                //}
-
                 TempData["message"] = "Datos guardados exitosamente";
 
                 return RedirectToAction(nameof(Index));

@@ -21,7 +21,7 @@ namespace DEMO_TiendaJunior.Repositories.Precios
 
                 connection.Execute(
                     storeProcedure,
-                    new { precio.PrecioUnidad, precio.Id_Producto },
+                    new { precio.PrecioUnidad, precio.IdProducto },
                     commandType: CommandType.StoredProcedure
                     );
             }
@@ -49,7 +49,7 @@ namespace DEMO_TiendaJunior.Repositories.Precios
 
                 connection.Execute(
                     storeProcedure,
-                    new {precio.Id_Precio, precio.Id_Producto, precio.PrecioUnidad },
+                    new {precio.Id_Precio, precio.IdProducto, precio.PrecioUnidad },
                     commandType: CommandType.StoredProcedure
                     );
             }

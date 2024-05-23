@@ -148,7 +148,7 @@ namespace DEMO_TiendaJunior.Controllers
 
             if (credential != null)
             {
-                credential.Rol = rol.FirstOrDefault(r => r.Id_Roles == credential.Id_Rol);
+                credential.Rol = rol.FirstOrDefault(r => r.Id_Roles == credential.Id_Roles);
                 TempData["RolUsername"] = credential?.Rol?.Nombre;
                 HttpContext.SignInAsync("CookieAuth", new ClaimsPrincipal(new ClaimsIdentity(new List<Claim> { new Claim(ClaimTypes.Name, login.UserName) }, "CookieAuth")));
 

@@ -46,8 +46,9 @@ namespace DEMO_TiendaJunior.Controllers
                 _preciosRepository.Add(precio);
                 return RedirectToAction(nameof(Index));
             }
-            catch
+            catch (Exception ex)
             {
+                TempData["message"] = ex.Message;
                 ViewBag.Productos = _productosList;
                 return View(precio);
             }
