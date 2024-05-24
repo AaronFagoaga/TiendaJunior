@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {}
+    "C:\\Users\\L e  o\\Desktop\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {
+    "C:\\Users\\L e  o\\Desktop\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+        "projectUniqueName": "C:\\Users\\L e  o\\Desktop\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
         "projectName": "DEMO-TiendaJunior",
-        "projectPath": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
-        "packagesPath": "C:\\Users\\Zulma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
+        "projectPath": "C:\\Users\\L e  o\\Desktop\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj",
+        "packagesPath": "C:\\Users\\L e  o\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\L e  o\\Desktop\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Zulma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\L e  o\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -81,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
