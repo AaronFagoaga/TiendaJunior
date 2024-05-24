@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\",
+  "WorkspaceRootPath": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\login\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\login\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\models\\categoriamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\models\\categoriamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\models\\rolesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\models\\rolesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\models\\rolesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\usersinfo\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\repositories\\usersinfo\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\repositories\\usersinfo\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|d:\\repositorio - tienda junior\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\views\\login\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\views\\login\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|c:\\users\\zulma\\onedrive\\ciclo_vii-2024\\metodologias agiles de desarrollo de software\\sprint 7\\tiendajunior\\demo-tiendajunior\\demo-tiendajunior\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B3BE7A-1400-4C26-9442-48E97619467B}|DEMO-TiendaJunior\\DEMO-TiendaJunior.csproj|solutionrelative:demo-tiendajunior\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +50,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Controllers\\LoginController.cs",
               "RelativeToolTip": "DEMO-TiendaJunior\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAGgAAAAAAAAAAAAswJUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,51 +65,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoriaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\CategoriaModel.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Models\\CategoriaModel.cs",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\CategoriaModel.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Models\\CategoriaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:56:55.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\RolesModel.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Models\\RolesModel.cs",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\RolesModel.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Models\\RolesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:59:33.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\ProductoModel.cs",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Models\\ProductoModel.cs",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\ProductoModel.cs",
+              "RelativeToolTip": "DEMO-TiendaJunior\\Models\\ProductoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:58:55.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
+              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\appsettings.json",
+              "RelativeToolTip": "DEMO-TiendaJunior\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T16:30:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Create.cshtml",
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Login\\Create.cshtml",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Login\\Create.cshtml",
               "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Login\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-23T22:24:07.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RolesModel.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\RolesModel.cs",
-              "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Models\\RolesModel.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\RolesModel.cs",
-              "RelativeToolTip": "DEMO-TiendaJunior\\Models\\RolesModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T22:20:53.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LoginRepository.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\LoginRepository.cs",
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Repositories\\UsersInfo\\LoginRepository.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Repositories\\UsersInfo\\LoginRepository.cs",
               "RelativeToolTip": "DEMO-TiendaJunior\\Repositories\\UsersInfo\\LoginRepository.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAwwGcAAAAIAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwGcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T22:11:42.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Models\\LoginModel.cs",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Models\\LoginModel.cs",
               "RelativeToolTip": "DEMO-TiendaJunior\\Models\\LoginModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T22:09:41.427Z",
               "EditorCaption": ""
@@ -106,11 +157,11 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DEMO-TiendaJunior\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Repositorio - Tienda Junior\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zulma\\OneDrive\\Ciclo_VII-2024\\Metodologias Agiles de Desarrollo de Software\\Sprint 7\\TiendaJunior\\DEMO-TiendaJunior\\DEMO-TiendaJunior\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DEMO-TiendaJunior\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAABcAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-23T21:35:28.62Z",
               "EditorCaption": ""
