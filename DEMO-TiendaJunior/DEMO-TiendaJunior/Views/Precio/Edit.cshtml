@@ -14,7 +14,7 @@
                 <input asp-for="Id_Precio" type ="hidden" class="form-control" />
             </div>
             <div class="mb-3">
-                <label asp-for="IdProducto" class="form-label">Producto</label>
+                <label asp-for="IdProducto" class="form-label">Producto: </label>
                 <select asp-for="IdProducto"
                         asp-items="@ViewBag.Productos"
                         class="form-select">s
@@ -23,7 +23,7 @@
                 <span asp-validation-for="IdProducto" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="PrecioUnidad" class="control-label"></label>
+                <label asp-for="PrecioUnidad" class="control-label">Precio unitario: </label>
                 <input asp-for="PrecioUnidad" class="form-control" />
                 <span asp-validation-for="PrecioUnidad" class="text-danger"></span>
             </div>

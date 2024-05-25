@@ -15,7 +15,7 @@ namespace DEMO_TiendaJunior.Models
 
 
         [Required(ErrorMessage = "La descripcion es obligatorio.")]
-        [MinLength(15, ErrorMessage = "El nombre categoria debe tener al menos 15 letras.")]
+        [MinLength(15, ErrorMessage = "La descripción debe tener al menos 15 letras.")]
         [StringLength(75, ErrorMessage = "El nombre no puede tener más de 75 caracteres.")]
         public string Descripcion { get; set;}
 

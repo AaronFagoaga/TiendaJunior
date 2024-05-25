@@ -13,23 +13,23 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
             <div class="form-group">
-                <label asp-for="Nombre" class="control-label"></label>
+                <label asp-for="Nombre" class="control-label">Nombre: </label>
                 <input asp-for="Nombre" class="form-control" />
                 <span asp-validation-for="Nombre" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Edad" class="control-label"></label>
+                <label asp-for="Edad" class="control-label">Edad: </label>
                 <input asp-for="Edad" class="form-control" />
                 <span asp-validation-for="Edad" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Contacto" class="control-label"></label>
+                <label asp-for="Contacto" class="control-label">Contacto: </label>
                 <input asp-for="Contacto" class="form-control" />
                 <span asp-validation-for="Contacto" class="text-danger"></span>
             </div>
 
             <div class="form-group">
-                <label asp-for="Id_Roles" class="control-label"></label>
+                <label asp-for="Id_Roles" class="control-label">Rol: </label>
                 <select asp-for="Id_Roles"
                         asp-items="@ViewBag.Roles"
                         class="form-select">

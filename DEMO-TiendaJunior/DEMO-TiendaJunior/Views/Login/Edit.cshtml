@@ -14,7 +14,7 @@
             <input type="hidden" asp-for="Id_Login" />
 
             <div class="form-group">
-                <label asp-for="UserName" class="control-label"></label>
+                <label asp-for="UserName" class="control-label">UserName: </label>
                 <input asp-for="UserName" class="form-control" />
                 <span asp-validation-for="UserName" class="text-danger"></span>
             </div>
@@ -24,7 +24,7 @@
                 <span asp-validation-for="Contraseña" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Id_Usuario" class="control-label"></label>
+                <label asp-for="Id_Usuario" class="control-label">Usuario: </label>
                 <select asp-for="Id_Usuario" asp-items="@ViewBag.Usuarios" class="form-select">
                     <option>Seleccione</option>
                 </select>
