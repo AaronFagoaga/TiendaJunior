@@ -44,6 +44,7 @@
                                 <li class="nav-item">
                                     <a class="nav-link text-dark" asp-controller="Precio" asp-action="Index">Precios</a>
                                 </li>
+
                                 @if (TempData["RolUsername"]?.ToString() == "Administrador")
                                 {
                                     <li class="nav-item">

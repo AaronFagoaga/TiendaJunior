@@ -22,9 +22,9 @@
                 <input asp-for="Cantidad" class="form-control" />
                 <span asp-validation-for="Cantidad" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group" style="display: none;">
                 <label asp-for="Id_Venta" class="control-label">N° de venta: </label>
-                <input asp-for="Id_Venta" class="form-control" />
+                <input asp-for="Id_Venta" class="form-control" value="@ViewBag.Id_Venta" />
                 <span asp-validation-for="Id_Venta" class="text-danger"></span>
             </div>
             <hr />
