@@ -78,7 +78,7 @@ namespace DEMO_TiendaJunior.Repositories.DetallesVentas
 
 		public IEnumerable<PrecioModel> GetAllPrecios()
 		{
-			string query = "SELECT Id_Precio, PrecioUnidad, IdProducto FROM TBL_Precio;";
+			string query = "SELECT Id_Precio, PrecioUnidad, Id_Producto FROM TBL_Precio;";
 
 			using (var connection = _dataAccess.GetConnection())
 			{

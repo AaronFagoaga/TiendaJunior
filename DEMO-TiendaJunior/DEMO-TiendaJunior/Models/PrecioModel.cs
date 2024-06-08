@@ -8,7 +8,7 @@ namespace DEMO_TiendaJunior.Models
         public int Id_Precio { get; set; }
 
         [Required(ErrorMessage = "Seleccione un producto.")]
-        public int IdProducto { get; set; }
+        public int Id_Producto { get; set; }
 
         [Required(ErrorMessage = "El precio por unidad es obligatorio.")]
         [Range(0.25, 10000.00, ErrorMessage = "El precio por unidad debe ser un valor positivo y no mayor a 10,000.")]
